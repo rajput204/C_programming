@@ -1,1 +1,1 @@
-*here we first three program is based on simple syntax and based on type of statements i.e action statements and declaration statement.
+*here the first three program is based on simple syntax  and type's of statements i.e action statements and declaration statement.
