@@ -10,3 +10,4 @@ int main()
     return 0;
 }
  
+ // to run the code on terminal just type gcc -std=c11 -o filename.c filename
